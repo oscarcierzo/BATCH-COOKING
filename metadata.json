@@ -1,0 +1,6 @@
+{
+  "name": "Mambo Batch Cooking Planner",
+  "description": "Planificador profesional de batch cooking por niveles para Cecotec Mambo 10090 con recetas de 4 niveles simultáneos, cronograma semanal y plantilla vacía interactiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
